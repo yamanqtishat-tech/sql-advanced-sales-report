@@ -1,0 +1,15 @@
+EXECUTIVE SUMMARY
+
+The sales analysis was conducted using the store database to identify sales performance by month, product category, and city.
+
+The total revenue generated during the analyzed period was 11,450, with a total sales quantity of 82 units. The available dataset contains sales transactions from January 2026 only; therefore, a long-term monthly trend cannot be determined from the current data.
+
+Among the product categories, Computers generated the highest revenue with 4,800, followed by Accessories with 3,400 and Office Equipment with 3,250.
+
+Amman generated the highest total revenue among the cities, with 5,975, followed by Irbid with 3,025 and Zarqa with 2,450.
+
+The highest-revenue product in Amman and Irbid was the Laptop, while the Monitor generated the highest product revenue in Zarqa.
+
+The average sale value per transaction was highest for the Computers category at 1,600, followed by Office Equipment at 812.5 and Accessories at 425.
+
+Overall, the analysis provides a clear view of the current sales distribution across categories and cities. However, additional monthly data would be required to identify reliable sales trends over time.
